@@ -1,0 +1,56 @@
+Prompt para deepseek Loja e Site
+
+Prompt para deepseek  Loja e Site 
+
+Se comporte como um profissional Front End e Web Designer Sénior e desenvolva um prompt para base44 desenvolver uma loja virtual (Roupas, acessórios, sapatilhas) e um site em wordpress para escola de Ballet Studio Vem Dançar
+
+Dados da Empresa 
+
+Nome: Studio Vem Dançar 
+Proprietarios: Aline Nunes e Wallace Abreu
+Telefone comercial: (27)99936-4993 (WhattsApp)
+Endereço: Rua Itabuna 93 Loja 07  Cep 298930-000
+Bairro São Francisco - Nova Venécia - ES
+CNPJ 47681926/0001-53
+
+Fornecedor
+Loja Maria Chica 
+Site: www.mariachicaballet.com.br 
+Telefone Comercial: (11)93721-2673 (WhattsApp)
+Endereço: R. Mendes Gonçalves, 332 – Brás, São Paulo – SP, 03027-010
+
+Loja 
+I.Desiner baseado na logo 
+II.Loja de vendas de materiais para Ballet 
+III.Catálogo de Produtos de forma dinâmica para incluir produtos de acordo com compras do fornecedor e removidos conforme as compras forem acontecendo  (sapatilhas, acessórios de cabelo, colam, saias, meias calças, bolsas) (As fotos serão colocadas em anexo de cada produto na base 44) 
+- Tamanhos e quantidades no estoque 
+- Filtros (Por preço, categorias e tamanhos) 
+- Pagina de detalhe 
+- Listagem e busca
+- Tabelas de medidas 
+IV.Carinho de compras 
+V.Checkout
+VI.Gestão de Clientes 
+             - Login (pode ser feito com a conta google)
+             - Senha
+             - Recuperação de senha
+             - Email
+VII.Carinho abandonado = Sistema que dispara email e sms quando a compra não for finalizada 
+VIII.Painel Administrativo (Admin)- Local para gerenciar, vendas, compras, pedidos, cumpons, prazos, relatórios... 
+IX.Meios de pagamentos PIX e Cartão (Indicar melhor taxa)
+X.APIS necessários 
+XI.Prazos de entrega (Preencher manualmente) 
+XII.Documentações (Certificados SSL, Lei Geral de Proteção de Dados Pessoais – LGPD
+XIII.Plugins com atualização automática
+XIV.Woocomerce 
+XV.Entrega (A principio será retirada diretamente no endereço do Studio) 
+XVI.Indexação com o google 
+XVII.Boas práticas de técnicas de SEO
+XVIII.Dashboard visível somente para criador e proprietários 
+XIX.Dados bancários para recebimento de fácil alteração
+
+Site 
+Desiner baseado na logo
+Meios de pagamentos PIX e Cartão (Indicar melhor taxa)
+APIS necessários 
+
